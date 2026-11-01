@@ -1,7 +1,7 @@
 function Button() {
     return (
         <button>
-            Button from Main
+            Button from Main and Feature
         </button>
     );
 }
