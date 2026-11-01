@@ -1,7 +1,7 @@
 function Button() {
     return (
         <button>
-            Click Me
+            Button from Feature
         </button>
     );
 }
